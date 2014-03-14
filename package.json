@@ -1,0 +1,23 @@
+{
+  "name": "routes.rb",
+  "version": "0.0.1",
+  "description": "Rails style routes in node.js",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fheemeyer/routes-rb.git"
+  },
+  "keywords": [
+    "rails",
+    "routes"
+  ],
+  "author": "https://github.com/fheemeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fheemeyer/routes-rb/issues"
+  },
+  "homepage": "https://github.com/fheemeyer/routes-rb"
+}
