@@ -14,6 +14,9 @@
     "rails",
     "routes"
   ],
+  "dependencies": {
+    underscore: "*"
+  },
   "author": "https://github.com/fheemeyer",
   "license": "ISC",
   "bugs": {
