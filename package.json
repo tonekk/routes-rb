@@ -14,13 +14,14 @@
     "rails",
     "routes"
   ],
-  "dependencies": {
-    underscore: "*"
-  },
   "author": "https://github.com/fheemeyer",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fheemeyer/routes-rb/issues"
   },
-  "homepage": "https://github.com/fheemeyer/routes-rb"
+  "homepage": "https://github.com/fheemeyer/routes-rb",
+  "dependencies": {
+    "inflection": "^1.3.5",
+    "underscore": "^1.6.0"
+  }
 }
