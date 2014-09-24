@@ -92,7 +92,7 @@ var Routes = (function() {
           }
           else if(options.not) {
             routes = _.reject(options.not, function(element) {
-              _.contains(routes, element);
+              return _.contains(routes, element);
             });
           }
         }
